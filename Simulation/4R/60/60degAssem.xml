@@ -1,0 +1,667 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<SimscapeMultibodyImportXML version="2.0" xmlns="urn:mathworks:SimscapeMultibody:import" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Created by="" on="08/27/24||21:41:49" using="Simscape Multibody Link Version 7.4" from="SolidWorks 30.5.0"/>
+<ModelUnits mass="kilogram" length="millimeter"/>
+<DataUnits mass="kilogram" length="meter"/>
+<RootAssembly name="60degAssem" uid="60degAssem" version="311">
+<AssemblyFile name="60degAssem.SLDASM" type="SolidWorks Assembly"/>
+<InstanceTree>
+<Instance name="60degPart-4" uid="60degPart-4" entityUid="60degPart" rigid="true">
+<Transform>
+<Rotation>0.49999999999999545 0 0.86602540378444126 0 -1 0 0.86602540378444104 0 -0.49999999999999567</Rotation>
+<Translation>-0.0044633398111257631 0.014215986976900012 0.051307389135494097</Translation>
+</Transform>
+<Instance name="bushing-1" uid="bushing-1" entityUid="bushing*:*默认">
+<Transform>
+<Rotation>1 0 0 0 -1.3481024095842931e-16 -1 0 1 -1.3481024095842931e-16</Rotation>
+<Translation>-0.054623090954356052 0.0098275736057705787 -0.013665063509461069</Translation>
+</Transform>
+</Instance>
+<Instance name="60degNEW-1" uid="60degNEW-1" grounded="true" entityUid="60degNEW*:*默认">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.054623090954356052 0.009827573605770577 -0.0056650635094610685</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="60degPart-6" uid="60degPart-6" entityUid="60degPart" rigid="true">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.082894022036637344 -0.0054391602346403039 0.0500000000000057</Translation>
+</Transform>
+<Instance name="bushing-1" uid="bushing-1" entityUid="bushing*:*默认">
+<Transform>
+<Rotation>1 0 0 0 0 -1 0 1 0</Rotation>
+<Translation>-0.054623090954356072 0.0098275736057705787 -0.013665063509461083</Translation>
+</Transform>
+</Instance>
+<Instance name="60degNEW-1" uid="60degNEW-1" grounded="true" entityUid="60degNEW*:*默认">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.054623090954356072 0.0098275736057705787 -0.0056650635094610755</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="60degPart-9" uid="60degPart-9" entityUid="60degPart" rigid="true">
+<Transform>
+<Rotation>0.50000000000000755 1.4109861355884596e-16 0.86602540378443438 0 -1 1.1485257788137617e-16 0.86602540378443438 0 -0.50000000000000755</Rotation>
+<Translation>0.082139200567334647 0.01421598697689549 0.10130738913550129</Translation>
+</Transform>
+<Instance name="bushing-1" uid="bushing-1" entityUid="bushing*:*默认">
+<Transform>
+<Rotation>1 0 0 0 0 -1 0 1 0</Rotation>
+<Translation>-0.054623090954356066 0.0098275736057705787 -0.013665063509461083</Translation>
+</Transform>
+</Instance>
+<Instance name="60degNEW-1" uid="60degNEW-1" grounded="true" entityUid="60degNEW*:*默认">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.054623090954356066 0.0098275736057705787 -0.0056650635094610893</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="60degPart-1" uid="60degPart-1" grounded="true" entityUid="60degPart" rigid="true">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.003708518341800221 -0.0054391602346403195 0</Translation>
+</Transform>
+<Instance name="bushing-1" uid="bushing-1" entityUid="bushing*:*默认">
+<Transform>
+<Rotation>1 0 0 0 0 -1 0 1 0</Rotation>
+<Translation>-0.054623090954356072 0.0098275736057705787 -0.013665063509461079</Translation>
+</Transform>
+</Instance>
+<Instance name="60degNEW-1" uid="60degNEW-1" grounded="true" entityUid="60degNEW*:*默认">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.054623090954356072 0.0098275736057705787 -0.0056650635094610789</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="60degPart-2" uid="60degPart-2" entityUid="60degPart" rigid="true">
+<Transform>
+<Rotation>0.50000000000000289 2.2290653834720209e-16 0.86602540378443704 1.1379786002407853e-15 -1 -3.9962195134328588e-16 0.86602540378443704 1.1853293524432184e-15 -0.50000000000000289</Rotation>
+<Translation>0.12544047075654016 0.01421598697689978 0.12630738913549397</Translation>
+</Transform>
+<Instance name="bushing-1" uid="bushing-1" entityUid="bushing*:*默认">
+<Transform>
+<Rotation>1 0 0 0 0 -1 0 1 0</Rotation>
+<Translation>-0.054623090954356079 0.0098275736057705787 -0.013665063509461103</Translation>
+</Transform>
+</Instance>
+<Instance name="60degNEW-1" uid="60degNEW-1" grounded="true" entityUid="60degNEW*:*默认">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.054623090954356079 0.0098275736057705804 -0.0056650635094610963</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="60degPart-8" uid="60degPart-8" entityUid="60degPart" rigid="true">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.12619529222587506 -0.0054391602346395857 0.074999999999991518</Translation>
+</Transform>
+<Instance name="bushing-1" uid="bushing-1" entityUid="bushing*:*默认">
+<Transform>
+<Rotation>1 0 0 0 0 -1 0 1 0</Rotation>
+<Translation>-0.054623090954356079 0.0098275736057705787 -0.013665063509461076</Translation>
+</Transform>
+</Instance>
+<Instance name="60degNEW-1" uid="60degNEW-1" grounded="true" entityUid="60degNEW*:*默认">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.054623090954356079 0.0098275736057705787 -0.0056650635094610824</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="60degPart-10" uid="60degPart-10" entityUid="60degPart" rigid="true">
+<Transform>
+<Rotation>0.50000000000000755 1.4383514568616347e-16 0.86602540378443438 -5.8286708792820718e-16 -1 5.0260499027880229e-16 0.86602540378443438 -7.5608020031508782e-16 -0.50000000000000755</Rotation>
+<Translation>0.16874174094576222 0.014215986976899572 0.15130738913549391</Translation>
+</Transform>
+<Instance name="bushing-1" uid="bushing-1" entityUid="bushing*:*默认">
+<Transform>
+<Rotation>1 0 0 0 0 -1 0 1 0</Rotation>
+<Translation>-0.054623090954356079 0.0098275736057705787 -0.013665063509461096</Translation>
+</Transform>
+</Instance>
+<Instance name="60degNEW-1" uid="60degNEW-1" grounded="true" entityUid="60degNEW*:*默认">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.054623090954356079 0.0098275736057705804 -0.0056650635094610824</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="60degPart-7" uid="60degPart-7" entityUid="60degPart" rigid="true">
+<Transform>
+<Rotation>0.50000000000000744 0 0.86602540378443438 0 -1 0 0.86602540378443438 0 -0.50000000000000733</Rotation>
+<Translation>0.038837930378099891 0.014215986976900106 0.076307389135505888</Translation>
+</Transform>
+<Instance name="bushing-1" uid="bushing-1" entityUid="bushing*:*默认">
+<Transform>
+<Rotation>1 1.1102230246251565e-16 0 0 0 -1 1.1102230246251565e-16 0.99999999999999989 0</Rotation>
+<Translation>-0.054623090954356066 0.009827573605770577 -0.013665063509461079</Translation>
+</Transform>
+</Instance>
+<Instance name="60degNEW-1" uid="60degNEW-1" grounded="true" entityUid="60degNEW*:*默认">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.054623090954356066 0.009827573605770577 -0.0056650635094610789</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="60degPart-3" uid="60degPart-3" entityUid="60degPart" rigid="true">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.16949656241508337 -0.0054391602346412589 0.099999999999985517</Translation>
+</Transform>
+<Instance name="bushing-1" uid="bushing-1" entityUid="bushing*:*默认">
+<Transform>
+<Rotation>1 0 0 0 0 -1 0 1 0</Rotation>
+<Translation>-0.054623090954356079 0.0098275736057705787 -0.013665063509461076</Translation>
+</Transform>
+</Instance>
+<Instance name="60degNEW-1" uid="60degNEW-1" grounded="true" entityUid="60degNEW*:*默认">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.054623090954356079 0.0098275736057705787 -0.0056650635094610824</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="60degPart-5" uid="60degPart-5" entityUid="60degPart" rigid="true">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.039592751847419901 -0.0054391602346392865 0.024999999999995977</Translation>
+</Transform>
+<Instance name="bushing-1" uid="bushing-1" entityUid="bushing*:*默认">
+<Transform>
+<Rotation>1 0 0 0 0 -1 0 1 0</Rotation>
+<Translation>-0.054623090954356072 0.0098275736057705787 -0.013665063509461079</Translation>
+</Transform>
+</Instance>
+<Instance name="60degNEW-1" uid="60degNEW-1" grounded="true" entityUid="60degNEW*:*默认">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.054623090954356072 0.0098275736057705787 -0.0056650635094610789</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="60degPart-11" uid="60degPart-11" entityUid="60degPart" rigid="true">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.2127978326043054 -0.0054391602346412962 0.12499999999998533</Translation>
+</Transform>
+<Instance name="bushing-1" uid="bushing-1" entityUid="bushing*:*默认">
+<Transform>
+<Rotation>1 0 0 0 0 -1 0 1 0</Rotation>
+<Translation>-0.054623090954356079 0.0098275736057705787 -0.013665063509461076</Translation>
+</Transform>
+</Instance>
+<Instance name="60degNEW-1" uid="60degNEW-1" grounded="true" entityUid="60degNEW*:*默认">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.054623090954356079 0.0098275736057705787 -0.0056650635094610824</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="60degPart-12" uid="60degPart-12" entityUid="60degPart" rigid="true">
+<Transform>
+<Rotation>0.50000000000000799 0 0.86602540378443393 0 -1 0 0.86602540378443393 0 -0.50000000000000788</Rotation>
+<Translation>0.21204301113498433 0.014215986976899521 0.1763073891354936</Translation>
+</Transform>
+<Instance name="bushing-1" uid="bushing-1" entityUid="bushing*:*默认">
+<Transform>
+<Rotation>1 -1.1102230246251556e-16 0 0 0 -1 1.1102230246251568e-16 1 0</Rotation>
+<Translation>-0.054623090954356052 0.0098275736057705787 -0.013665063509461062</Translation>
+</Transform>
+</Instance>
+<Instance name="60degNEW-1" uid="60degNEW-1" grounded="true" entityUid="60degNEW*:*默认">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.054623090954356052 0.0098275736057705787 -0.0056650635094610824</Translation>
+</Transform>
+</Instance>
+</Instance>
+</InstanceTree>
+<Constraints>
+<Concentric name="同心1">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>60degPart-2</Uid>
+<Uid>60degNEW-1</Uid>
+</InstancePath>
+<Position>0 0 0.025000000000000022</Position>
+<Axis>-0.86602540378443782 0 0.50000000000000155</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>60degPart-3</Uid>
+<Uid>60degNEW-1</Uid>
+</InstancePath>
+<Position>0 0 -0.0080000000000000071</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="重合1">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>60degPart-2</Uid>
+<Uid>60degNEW-1</Uid>
+</InstancePath>
+<Position>0.016320508075688744 0.0029999999999999996 0.013267949192431051</Position>
+<Axis>-0.86602540378443427 0 0.50000000000000755</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>60degPart-3</Uid>
+<Uid>bushing-1</Uid>
+</InstancePath>
+<Position>0 0.0030000000000000027 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="同心3">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>60degPart-1</Uid>
+<Uid>60degNEW-1</Uid>
+</InstancePath>
+<Position>0 0 0.025000000000000001</Position>
+<Axis>-0.86602540378443793 0 0.50000000000000167</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>60degPart-4</Uid>
+<Uid>60degNEW-1</Uid>
+</InstancePath>
+<Position>0 0 -0.0080000000000000002</Position>
+<Axis>0 -1.3481024095842934e-16 1.0000000000000002</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="重合3">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>60degPart-1</Uid>
+<Uid>60degNEW-1</Uid>
+</InstancePath>
+<Position>0.021650635094610966 0 0.012499999999999952</Position>
+<Axis>-0.86602540378443427 0 0.50000000000000755</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>60degPart-4</Uid>
+<Uid>60degNEW-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 1.3481024095842934e-16 -1.0000000000000002</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="同心4">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>60degPart-4</Uid>
+<Uid>60degNEW-1</Uid>
+</InstancePath>
+<Position>0 0 0.025000000000000001</Position>
+<Axis>-0.86602540378443749 0 0.50000000000000178</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>60degPart-5</Uid>
+<Uid>60degNEW-1</Uid>
+</InstancePath>
+<Position>0 0 -0.0080000000000000002</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="重合4">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>60degPart-4</Uid>
+<Uid>60degNEW-1</Uid>
+</InstancePath>
+<Position>0.020650635094610906 -0.0030000000000000009 0.010767949192431018</Position>
+<Axis>0.86602540378443404 0 -0.50000000000000777</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>60degPart-5</Uid>
+<Uid>60degNEW-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="同心5">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>60degPart-5</Uid>
+<Uid>60degNEW-1</Uid>
+</InstancePath>
+<Position>0.02165063509461097 0 0.012499999999999952</Position>
+<Axis>-0.86602540378443427 0 0.50000000000000755</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>60degPart-7</Uid>
+<Uid>60degNEW-1</Uid>
+</InstancePath>
+<Position>0 0 -0.0080000000000000036</Position>
+<Axis>1.1102230246251565e-16 0 1.0000000000000002</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="重合5">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>60degPart-5</Uid>
+<Uid>60degNEW-1</Uid>
+</InstancePath>
+<Position>0.016320508075688744 0.0030000000000000001 0.013267949192431055</Position>
+<Axis>-0.86602540378443427 0 0.50000000000000755</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>60degPart-7</Uid>
+<Uid>bushing-1</Uid>
+</InstancePath>
+<Position>0 0.0029999999999999992 0</Position>
+<Axis>1.1102230246251565e-16 1.0000000000000002 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="同心6">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>60degPart-6</Uid>
+<Uid>60degNEW-1</Uid>
+</InstancePath>
+<Position>0 0 -0.0080000000000000002</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>60degPart-7</Uid>
+<Uid>60degNEW-1</Uid>
+</InstancePath>
+<Position>0 0 0.024999999999999994</Position>
+<Axis>-0.86602540378443782 0 0.50000000000000144</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="重合6">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>60degPart-6</Uid>
+<Uid>bushing-1</Uid>
+</InstancePath>
+<Position>0 0.0030000000000000027 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>60degPart-7</Uid>
+<Uid>60degNEW-1</Uid>
+</InstancePath>
+<Position>0.017320508075688752 0 0.014999999999999975</Position>
+<Axis>-0.86602540378443782 0 0.50000000000000144</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="同心7">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>60degPart-6</Uid>
+<Uid>60degNEW-1</Uid>
+</InstancePath>
+<Position>0 0 0.024999999999999994</Position>
+<Axis>-0.86602540378443793 0 0.50000000000000167</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>60degPart-9</Uid>
+<Uid>60degNEW-1</Uid>
+</InstancePath>
+<Position>0 0 -0.0079999999999999932</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="重合7">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>60degPart-6</Uid>
+<Uid>60degNEW-1</Uid>
+</InstancePath>
+<Position>0.021650635094610939 0 0.012499999999999969</Position>
+<Axis>-0.86602540378443793 0 0.50000000000000167</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>60degPart-9</Uid>
+<Uid>60degNEW-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="同心10">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>60degPart-10</Uid>
+<Uid>60degNEW-1</Uid>
+</InstancePath>
+<Position>0 0 -0.008000000000000014</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>60degPart-3</Uid>
+<Uid>60degNEW-1</Uid>
+</InstancePath>
+<Position>0.021650635094610959 0 0.012499999999999956</Position>
+<Axis>-0.86602540378443427 0 0.50000000000000755</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="重合17">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>60degPart-3</Uid>
+<Uid>60degNEW-1</Uid>
+</InstancePath>
+<Position>0.016320508075688744 0.0030000000000000001 0.013267949192431058</Position>
+<Axis>-0.86602540378443427 0 0.50000000000000755</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>60degPart-10</Uid>
+<Uid>bushing-1</Uid>
+</InstancePath>
+<Position>0 0.0030000000000000027 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="同心11">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>60degPart-10</Uid>
+<Uid>60degNEW-1</Uid>
+</InstancePath>
+<Position>0.021650635094610959 0 0.012499999999999942</Position>
+<Axis>-0.86602540378443438 0 0.50000000000000755</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>60degPart-11</Uid>
+<Uid>60degNEW-1</Uid>
+</InstancePath>
+<Position>0 0 -0.0079999999999999932</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="重合18">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>60degPart-10</Uid>
+<Uid>60degNEW-1</Uid>
+</InstancePath>
+<Position>0.016320508075688744 0.0030000000000000001 0.013267949192431044</Position>
+<Axis>-0.86602540378443438 0 0.50000000000000755</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>60degPart-11</Uid>
+<Uid>bushing-1</Uid>
+</InstancePath>
+<Position>0 0.0030000000000000027 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="同心12">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>60degPart-11</Uid>
+<Uid>60degNEW-1</Uid>
+</InstancePath>
+<Position>0.021650635094610959 0 0.012499999999999942</Position>
+<Axis>-0.86602540378443427 0 0.50000000000000755</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>60degPart-12</Uid>
+<Uid>60degNEW-1</Uid>
+</InstancePath>
+<Position>0 0 -0.0079999999999999793</Position>
+<Axis>1.1102230246251565e-16 0 1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="重合19">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>60degPart-11</Uid>
+<Uid>60degNEW-1</Uid>
+</InstancePath>
+<Position>0.016320508075688744 0.0030000000000000001 0.013267949192431058</Position>
+<Axis>-0.86602540378443427 0 0.50000000000000755</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>60degPart-12</Uid>
+<Uid>bushing-1</Uid>
+</InstancePath>
+<Position>0 0.0030000000000000027 0</Position>
+<Axis>1.1102230246251565e-16 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="同心15">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>60degPart-8</Uid>
+<Uid>60degNEW-1</Uid>
+</InstancePath>
+<Position>0 0 -0.0080000000000000002</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>60degPart-9</Uid>
+<Uid>60degNEW-1</Uid>
+</InstancePath>
+<Position>0.021650635094610959 0 0.012499999999999963</Position>
+<Axis>-0.86602540378443438 0 0.50000000000000755</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="重合21">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>60degPart-8</Uid>
+<Uid>60degNEW-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>60degPart-9</Uid>
+<Uid>60degNEW-1</Uid>
+</InstancePath>
+<Position>0.020650635094610917 -0.0030000000000000001 0.010767949192431028</Position>
+<Axis>0.86602540378443438 0 -0.50000000000000755</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="同心17">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>60degPart-2</Uid>
+<Uid>60degNEW-1</Uid>
+</InstancePath>
+<Position>0 0 -0.0080000000000000002</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>60degPart-8</Uid>
+<Uid>60degNEW-1</Uid>
+</InstancePath>
+<Position>0.021650635094610973 0 0.012499999999999956</Position>
+<Axis>-0.86602540378443427 0 0.50000000000000755</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="重合35">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>60degPart-2</Uid>
+<Uid>60degNEW-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>60degPart-8</Uid>
+<Uid>60degNEW-1</Uid>
+</InstancePath>
+<Position>0.020650635094610917 -0.0030000000000000001 0.010767949192431014</Position>
+<Axis>0.86602540378443427 0 -0.50000000000000755</Axis>
+</ConstraintGeometry>
+</Coincident>
+</Constraints>
+</RootAssembly>
+<Assemblies>
+<Assembly name="60degPart" uid="60degPart" version="142">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<AssemblyFile name="60degPart.SLDASM" type="SolidWorks Assembly"/>
+</Assembly>
+</Assemblies>
+<Parts>
+<Part name="60degNEW" uid="60degNEW*:*默认" version="246">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="60degNEW.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0012452938728615042</Mass>
+<CenterOfMass>0.0085521715980597292 0 0.0054503842904843761</CenterOfMass>
+<Inertia>4.7316413610658213e-08 1.275532319138374e-07 9.2748888085169344e-08 0 -5.0457080000405767e-08 0</Inertia>
+</MassProperties>
+<GeometryFile name="60degNEW_默认_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="1" g="1" b="1" a="1"/>
+<Diffuse r="1" g="1" b="1" a="1"/>
+<Specular r="0.88" g="0.88" b="0.88" a="1"/>
+<Emissive r="0.20999999999999999" g="0.20999999999999999" b="0.20999999999999999" a="1"/>
+<Shininess>0.20999999999999999</Shininess>
+</VisualProperties>
+</Part>
+<Part name="bushing" uid="bushing*:*默认" version="147">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="bushing.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0001824578108342697</Mass>
+<CenterOfMass>0 0.0014999999999999998 0</CenterOfMass>
+<Inertia>1.5344986981491509e-09 2.7953106800468975e-09 1.5344986981491514e-09 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="bushing_默认_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="1" g="1" b="1" a="1"/>
+<Diffuse r="1" g="1" b="1" a="1"/>
+<Specular r="0.88" g="0.88" b="0.88" a="1"/>
+<Emissive r="0.20999999999999999" g="0.20999999999999999" b="0.20999999999999999" a="1"/>
+<Shininess>0.20999999999999999</Shininess>
+</VisualProperties>
+</Part>
+</Parts>
+</SimscapeMultibodyImportXML>

@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<SimscapeMultibodyImportXML version="2.0" xmlns="urn:mathworks:SimscapeMultibody:import" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Created by="" on="08/28/24||20:23:17" using="Simscape Multibody Link Version 7.4" from="SolidWorks 30.5.0"/>
+<ModelUnits mass="kilogram" length="millimeter"/>
+<DataUnits mass="kilogram" length="meter"/>
+<RootAssembly name="90degAssem" uid="90degAssem" version="226">
+<AssemblyFile name="90degAssem.SLDASM" type="SolidWorks Assembly"/>
+<InstanceTree>
+<Instance name="90degPart-6" uid="90degPart-6" entityUid="90degPart" rigid="true">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.21103355460305223 -0.050930318560723317 0.10000000000000023</Translation>
+</Transform>
+<Instance name="bushing-1" uid="bushing-1" entityUid="bushing*:*默认">
+<Transform>
+<Rotation>-0.92372802134706822 0 0.38304900806323788 -0.38304900806323777 0 -0.92372802134706822 0 -1 0</Rotation>
+<Translation>-0.11833981977377435 0.047159991579892778 -0.016</Translation>
+</Transform>
+</Instance>
+<Instance name="90degNEW-1" uid="90degNEW-1" grounded="true" entityUid="90degNEW*:*默认">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.11833981977377439 0.047159991579892785 -0.01100000000000001</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="90degPart-8" uid="90degPart-8" entityUid="90degPart" rigid="true">
+<Transform>
+<Rotation>0 1.3694442674441944e-16 1 0 -1 1.3694442674441905e-16 1 0 0</Rotation>
+<Translation>0.17869373482927792 0.043389664599062232 0.28233981977377443</Translation>
+</Transform>
+<Instance name="bushing-1" uid="bushing-1" entityUid="bushing*:*默认">
+<Transform>
+<Rotation>-0.92372802134706822 0 0.38304900806323788 -0.38304900806323777 0 -0.92372802134706822 0 -1 0</Rotation>
+<Translation>-0.11833981977377434 0.047159991579892771 -0.016000000000000014</Translation>
+</Transform>
+</Instance>
+<Instance name="90degNEW-1" uid="90degNEW-1" grounded="true" entityUid="90degNEW*:*默认">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.11833981977377439 0.047159991579892778 -0.01100000000000001</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="90degPart-3" uid="90degPart-3" entityUid="90degPart" rigid="true">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.16103355460305227 -0.050930318560723276 0.050000000000000155</Translation>
+</Transform>
+<Instance name="bushing-1" uid="bushing-1" entityUid="bushing*:*默认">
+<Transform>
+<Rotation>-0.92372802134706822 0 0.38304900806323788 -0.38304900806323777 0 -0.92372802134706822 0 -1 0</Rotation>
+<Translation>-0.11833981977377435 0.047159991579892778 -0.016</Translation>
+</Transform>
+</Instance>
+<Instance name="90degNEW-1" uid="90degNEW-1" grounded="true" entityUid="90degNEW*:*默认">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.11833981977377439 0.047159991579892785 -0.011000000000000003</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="90degPart-5" uid="90degPart-5" entityUid="90degPart" rigid="true">
+<Transform>
+<Rotation>0 -2.775707577809967e-16 0.99999999999999967 0 -1 -2.7757075778099714e-16 1 0 0</Rotation>
+<Translation>0.078693734829277898 0.043389664599062294 0.18233981977377456</Translation>
+</Transform>
+<Instance name="bushing-1" uid="bushing-1" entityUid="bushing*:*默认">
+<Transform>
+<Rotation>-0.92372802134706811 0 0.38304900806323772 -0.38304900806323772 0 -0.92372802134706811 0 -0.99999999999999967 0</Rotation>
+<Translation>-0.11833981977377435 0.047159991579892771 -0.016</Translation>
+</Transform>
+</Instance>
+<Instance name="90degNEW-1" uid="90degNEW-1" grounded="true" entityUid="90degNEW*:*默认">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.11833981977377439 0.047159991579892785 -0.010999999999999996</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="90degPart-7" uid="90degPart-7" entityUid="90degPart" rigid="true">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.26103355460305228 -0.050930318560723324 0.15000000000000008</Translation>
+</Transform>
+<Instance name="bushing-1" uid="bushing-1" entityUid="bushing*:*默认">
+<Transform>
+<Rotation>-0.92372802134706822 0 0.38304900806323788 -0.38304900806323777 0 -0.92372802134706822 0 -1 0</Rotation>
+<Translation>-0.11833981977377434 0.047159991579892778 -0.016000000000000014</Translation>
+</Transform>
+</Instance>
+<Instance name="90degNEW-1" uid="90degNEW-1" grounded="true" entityUid="90degNEW*:*默认">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.11833981977377439 0.047159991579892785 -0.01100000000000001</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="90degPart-9" uid="90degPart-9" entityUid="90degPart" rigid="true">
+<Transform>
+<Rotation>0 1.0179494176688836e-16 1 0 -1 1.0179494176688851e-16 1 0 0</Rotation>
+<Translation>0.1286937348292779 0.043389664599062232 0.23233981977377449</Translation>
+</Transform>
+<Instance name="bushing-1" uid="bushing-1" entityUid="bushing*:*默认">
+<Transform>
+<Rotation>-0.92372802134706822 0 0.38304900806323788 -0.38304900806323777 0 -0.92372802134706822 0 -1 0</Rotation>
+<Translation>-0.11833981977377434 0.047159991579892771 -0.016</Translation>
+</Transform>
+</Instance>
+<Instance name="90degNEW-1" uid="90degNEW-1" grounded="true" entityUid="90degNEW*:*默认">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.11833981977377438 0.047159991579892785 -0.010999999999999996</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="90degPart-2" uid="90degPart-2" entityUid="90degPart" rigid="true">
+<Transform>
+<Rotation>0 0 1 0 -1 0 1 0 0</Rotation>
+<Translation>0.02869373482927794 0.04338966459906228 0.13233981977377454</Translation>
+</Transform>
+<Instance name="bushing-1" uid="bushing-1" entityUid="bushing*:*默认">
+<Transform>
+<Rotation>-0.92372802134706822 0 0.38304900806323788 -0.38304900806323777 0 -0.92372802134706822 0 -1 0</Rotation>
+<Translation>-0.11833981977377435 0.047159991579892778 -0.016000000000000004</Translation>
+</Transform>
+</Instance>
+<Instance name="90degNEW-1" uid="90degNEW-1" grounded="true" entityUid="90degNEW*:*默认">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.11833981977377439 0.047159991579892785 -0.011000000000000003</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="90degPart-1" uid="90degPart-1" grounded="true" entityUid="90degPart" rigid="true">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.11103355460305225 -0.050930318560723005 0</Translation>
+</Transform>
+<Instance name="bushing-1" uid="bushing-1" entityUid="bushing*:*默认">
+<Transform>
+<Rotation>-0.92372802134706822 0 0.38304900806323788 -0.38304900806323777 0 -0.92372802134706822 0 -1 0</Rotation>
+<Translation>-0.11833981977377435 0.047159991579892778 -0.016</Translation>
+</Transform>
+</Instance>
+<Instance name="90degNEW-1" uid="90degNEW-1" grounded="true" entityUid="90degNEW*:*默认">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.11833981977377439 0.047159991579892785 -0.011000000000000003</Translation>
+</Transform>
+</Instance>
+</Instance>
+</InstanceTree>
+<Constraints>
+<Concentric name="同心1">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>90degPart-1</Uid>
+<Uid>90degNEW-1</Uid>
+</InstancePath>
+<Position>0 0 0.025000000000000001</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>90degPart-2</Uid>
+<Uid>90degNEW-1</Uid>
+</InstancePath>
+<Position>0 0 -0.0080000000000000002</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="重合1">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>90degPart-1</Uid>
+<Uid>90degNEW-1</Uid>
+</InstancePath>
+<Position>0.020000000000000059 0.0030000000000000001 0.023000000000000013</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>90degPart-2</Uid>
+<Uid>bushing-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="同心2">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>90degPart-2</Uid>
+<Uid>90degNEW-1</Uid>
+</InstancePath>
+<Position>0 0 0.024999999999999998</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>90degPart-3</Uid>
+<Uid>bushing-1</Uid>
+</InstancePath>
+<Position>0 0.0029999999999999992 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="重合2">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>90degPart-2</Uid>
+<Uid>90degNEW-1</Uid>
+</InstancePath>
+<Position>0.025000000000000008 0 0.024999999999999998</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>90degPart-3</Uid>
+<Uid>90degNEW-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="同心3">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>90degPart-3</Uid>
+<Uid>90degNEW-1</Uid>
+</InstancePath>
+<Position>0 0 0.025000000000000001</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>90degPart-5</Uid>
+<Uid>90degNEW-1</Uid>
+</InstancePath>
+<Position>0 0 -0.0079999999999999863</Position>
+<Axis>0 0 0.99999999999999967</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="重合3">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>90degPart-3</Uid>
+<Uid>90degNEW-1</Uid>
+</InstancePath>
+<Position>0.025000000000000008 0 0.025000000000000001</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>90degPart-5</Uid>
+<Uid>90degNEW-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 0 -0.99999999999999967</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="同心4">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>90degPart-5</Uid>
+<Uid>90degNEW-1</Uid>
+</InstancePath>
+<Position>0 0 0.024999999999999994</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>90degPart-6</Uid>
+<Uid>90degNEW-1</Uid>
+</InstancePath>
+<Position>0 0 0.0050000000000000044</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="重合4">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>90degPart-5</Uid>
+<Uid>90degNEW-1</Uid>
+</InstancePath>
+<Position>0.020000000000000059 0.0029999999999999996 0.023000000000000007</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>90degPart-6</Uid>
+<Uid>bushing-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="同心5">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>90degPart-6</Uid>
+<Uid>90degNEW-1</Uid>
+</InstancePath>
+<Position>0 0 0.024999999999999994</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>90degPart-9</Uid>
+<Uid>bushing-1</Uid>
+</InstancePath>
+<Position>0 0.0030000000000000027 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="重合5">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>90degPart-6</Uid>
+<Uid>90degNEW-1</Uid>
+</InstancePath>
+<Position>0.025000000000000008 0 0.024999999999999994</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>90degPart-9</Uid>
+<Uid>90degNEW-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="同心6">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>90degPart-7</Uid>
+<Uid>90degNEW-1</Uid>
+</InstancePath>
+<Position>0 0 0.0050000000000000044</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>90degPart-9</Uid>
+<Uid>90degNEW-1</Uid>
+</InstancePath>
+<Position>0 0 0.025000000000000008</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="重合6">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>90degPart-7</Uid>
+<Uid>90degNEW-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>90degPart-9</Uid>
+<Uid>90degNEW-1</Uid>
+</InstancePath>
+<Position>0.024999999999999981 0 0.025000000000000008</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="重合7">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>90degPart-7</Uid>
+<Uid>90degNEW-1</Uid>
+</InstancePath>
+<Position>0 0 0.024999999999999994</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>90degPart-8</Uid>
+<Uid>bushing-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="重合8">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>90degPart-7</Uid>
+<Uid>90degNEW-1</Uid>
+</InstancePath>
+<Position>0.020000000000000018 0 0.024999999999999994</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>90degPart-8</Uid>
+<Uid>bushing-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+</Constraints>
+</RootAssembly>
+<Assemblies>
+<Assembly name="90degPart" uid="90degPart" version="140">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<AssemblyFile name="90degPart.SLDASM" type="SolidWorks Assembly"/>
+</Assembly>
+</Assemblies>
+<Parts>
+<Part name="90degNEW" uid="90degNEW*:*默认" version="216">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="90degNEW.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0015987230463903532</Mass>
+<CenterOfMass>0.011735584957973874 0 0.0095747622785190573</CenterOfMass>
+<Inertia>1.4782510254152202e-07 2.8395811911454481e-07 1.5076566139618598e-07 0 -1.2285129095379686e-07 0</Inertia>
+</MassProperties>
+<GeometryFile name="90degNEW_默认_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="1" g="1" b="1" a="1"/>
+<Diffuse r="1" g="1" b="1" a="1"/>
+<Specular r="0.88" g="0.88" b="0.88" a="1"/>
+<Emissive r="0.20999999999999999" g="0.20999999999999999" b="0.20999999999999999" a="1"/>
+<Shininess>0.20999999999999999</Shininess>
+</VisualProperties>
+</Part>
+<Part name="bushing" uid="bushing*:*默认" version="147">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="bushing.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0001824578108342697</Mass>
+<CenterOfMass>0 0.0014999999999999998 0</CenterOfMass>
+<Inertia>1.5344986981491509e-09 2.7953106800468975e-09 1.5344986981491514e-09 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="bushing_默认_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="1" g="1" b="1" a="1"/>
+<Diffuse r="1" g="1" b="1" a="1"/>
+<Specular r="0.88" g="0.88" b="0.88" a="1"/>
+<Emissive r="0.20999999999999999" g="0.20999999999999999" b="0.20999999999999999" a="1"/>
+<Shininess>0.20999999999999999</Shininess>
+</VisualProperties>
+</Part>
+</Parts>
+</SimscapeMultibodyImportXML>
