@@ -30,7 +30,8 @@ for i=[1,2,3,4,5]
     end
 end
 
-outalp=trsum2(3,3); % For the 6R mechanism, the angle between the first and last axes of one inner 2R set, which serves as alpha of the outer 3R
+outalp=trsum2(3,3); 
+% For the 6R mechanism, the angle between the first and last axes of one inner 2R set, which serves as alpha of the outer 3R
 % subs(outalp,alp,2/3*pi)
 dh3=simplify(DH(0,0,0,thd)*DH(al,0,0,outth)*DH(0,0,0,-thd)); % outth corresponds to thetap
 inner=solve(dh3(1:3,1:3)==trsum2(1:3,1:3),[thd,outth,al]); % Transform the inner 2R joint angles into the outer variable outth (used as theta for the outer 3R)
