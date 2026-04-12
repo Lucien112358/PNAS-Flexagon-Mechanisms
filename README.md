@@ -1,5 +1,3 @@
-这份README是为你准备的，涵盖了项目的核心逻辑、文件结构以及仿真运行指南。
-
 ---
 
 # PNAS-Flexagon-Mechanisms
@@ -61,9 +59,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📝 Citation
 If you use this code or model in your research, please cite our PNAS paper:
-> *[Insert Full Paper Citation Here]*
+> Lin, J., Miao, Z., Zhang, H., Dong, K., Lu, H., Feng, H. and Dai, J. S., Dual-Chirality Flexagon Linkages with Infinite Eversion and Surface Reconfigurability, Proceedings of the National Academy of Sciences, under review.
 
 ---
 
-**Contact**: [Lucien / Your Email]
+**Contact**: linj2023@mail.sustech.edu.cn
 **Affiliation**: Southern University of Science and Technology (SUSTech)
