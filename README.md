@@ -47,7 +47,7 @@ The repository provides a seamless workflow between SolidWorks and Simscape for 
 ### 3. 3D Models (`Model/`)
 Contains high-fidelity models for different research stages:
 * **Kirigami Models**: $8R(k=2, p=2)$ and $9R(k=3, p=3)$ designs.
-* **Linkage Networks**: $8R(k=2, p=3)$ networked metamorphic mechanisms.
+* **Linkage Networks**: $8R(k=2, p=2)$ networked metamorphic mechanisms.
 * **Robotic Prototypes**:
     * `8R-prototype`: A functional mobile prototype.
     * `9R-Robot`: A conceptual design of a reconfigurable multi-modal robot.
